@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">List Programing Language</string>
+    <string name="language_name">Nama Bahasa Pemrograman</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About Me</string>
+
+    <string name="name">Bagus Rizki Setiawan</string>
+    <string name="abuotme">I am a student of the Informatics Study Program at Alma Ata University, I am usually called Bagus and I believe that technology can change the world</string>
+    <string name="email">bagus30122002@gmail.com</string>
+
+    <!--data-->
+    <string-array name="data_name">
+        <item>Java Script Language</item>
+        <item>C Language</item>
+        <item>Python Language</item>
+        <item>Java Language</item>
+        <item>PHP Language</item>
+        <item>Ruby Language</item>
+        <item>Swift Language</item>
+        <item>Go/Golang Language</item>
+        <item>Dart Language</item>
+        <item>C++ Language</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>JavaScript (sering disingkat sebagai JS) adalah bahasa pemrograman tingkat tinggi yang digunakan untuk mengembangkan situs web interaktif. Ini adalah salah satu dari tiga teknologi inti dalam pengembangan web bersama dengan HTML (Hypertext Markup Language) dan CSS (Cascading Style Sheets). JavaScript memungkinkan Anda untuk menambahkan interaktivitas, dinamika, dan fungsionalitas ke situs web Anda.</item>
+        <item>Bahasa C adalah salah satu bahasa pemrograman komputer yang sangat populer. Ini adalah bahasa pemrograman tingkat tinggi yang dikembangkan pada awal 1970-an oleh Dennis Ritchie di Laboratorium Bell, yang sekarang dikenal sebagai Nokia Bell Labs. Bahasa C memiliki sejumlah fitur dan sifat yang membuatnya sangat berguna dalam pengembangan perangkat lunak dan sistem.</item>
+        <item>Bahasa pemrograman Python adalah sebuah bahasa pemrograman tingkat tinggi yang bersifat open-source dan sering digunakan untuk pengembangan berbagai jenis aplikasi, seperti pengembangan web, analisis data, kecerdasan buatan, pengembangan game, dan banyak lagi. Python dikenal karena sintaksisnya yang mudah dipahami dan mudah digunakan, membuatnya menjadi pilihan populer bagi pemula dalam pemrograman sekaligus cocok untuk pengembang berpengalaman.</item>
+        <item>Bahasa pemrograman Java adalah bahasa pemrograman yang awalnya dikembangkan oleh Sun Microsystems pada tahun 1991 dan kemudian diakuisisi oleh Oracle Corporation. Java adalah bahasa pemrograman yang dirancang untuk menjadi platform-agnostic, yang berarti program yang ditulis dalam bahasa Java dapat dijalankan pada berbagai platform komputer tanpa perlu mengubah kode sumbernya.</item>
+        <item>PHP: Hypertext Preprocessor atau hanya PHP saja, adalah bahasa skrip dengan fungsi umum yang terutama digunakan untuk pengembangan web. Bahasa ini awalnya dibuat oleh seorang pemrogram Denmark-Kanada Rasmus Lerdorf pada tahun 1994. Implementasi referensi PHP sekarang diproduksi oleh The PHP Group.</item>
+        <item>Bahasa pemrograman Ruby adalah bahasa pemrograman yang dinamis, berorientasi objek, dan mudah dibaca. Ia dikembangkan oleh Yukihiro "Matz" Matsumoto pada awal 1990-an di Jepang. Ruby sering digunakan untuk pengembangan web, pemrograman skrip, dan berbagai jenis pengembangan perangkat lunak lainnya.</item>
+        <item>Swift adalah bahasa pemrograman yang dikembangkan oleh Apple Inc. Swift pertama kali diperkenalkan pada tahun 2014 sebagai pengganti bahasa Objective-C untuk pengembangan aplikasi iOS, macOS, watchOS, dan tvOS. Swift dirancang untuk menjadi lebih aman, lebih cepat, dan lebih mudah digunakan daripada Objective-C.</item>
+        <item>
+            Go, juga dikenal sebagai Golang, adalah bahasa pemrograman yang dikembangkan oleh Google pada tahun 2007 dan pertama kali dirilis secara resmi pada tahun 2009. Go dirancang dengan tujuan untuk menggabungkan produktivitas pemrograman dengan kinerja yang tinggi dan kemampuan berskala.
+            \nBeberapa karakteristik penting dari bahasa Go adalah:\n
+            \nKesederhanaan: Go sengaja dirancang dengan sintaks yang sederhana dan minim. Hal ini membuatnya mudah untuk dipahami dan dipelajari oleh pengembang baru.
+            \n\nEfisiensi: Go dirancang untuk memiliki kinerja yang tinggi. Bahasa ini memiliki sistem pengumpul sampah (garbage collector) yang efisien, serta dukungan untuk konkurensi dan pemrograman paralel yang kuat.
+            \n\nKepatutan dalam Penulisan Kode: Go memiliki konvensi penulisan kode yang ketat, yang memungkinkan kode yang ditulis dalam bahasa Go untuk lebih mudah dibaca dan dimaintain oleh banyak orang.
+        </item>
+        <item>Dart adalah bahasa pemrograman yang dikembangkan oleh Google. Dart pertama kali diperkenalkan pada tahun 2011 dan telah digunakan secara luas untuk pengembangan aplikasi web, aplikasi seluler, dan aplikasi desktop. Dart dapat digunakan untuk mengembangkan aplikasi seluler menggunakan kerangka kerja Flutter, yang juga dikembangkan oleh Google. </item>
+        <item>C++ adalah sebuah bahasa pemrograman yang kuat dan umum digunakan untuk mengembangkan berbagai jenis perangkat lunak, mulai dari aplikasi desktop hingga perangkat lunak sistem tingkat rendah, game, perangkat lunak embedded, dan banyak lagi.  C++ adalah bahasa pemrograman yang bersifat umum, yang berarti Anda dapat menggunakannya untuk mengembangkan berbagai jenis perangkat lunak.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/js</item>
+        <item>@drawable/c</item>
+        <item>@drawable/python</item>
+        <item>@drawable/java</item>
+        <item>@drawable/php</item>
+        <item>@drawable/ruby</item>
+        <item>@drawable/swift</item>
+        <item>@drawable/golang</item>
+        <item>@drawable/dart</item>
+        <item>@drawable/c_plus</item>
+    </string-array>
+
+</resources>
